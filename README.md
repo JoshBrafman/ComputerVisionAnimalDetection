@@ -1,6 +1,6 @@
 # ComputerVisionAnimalDetection
 
-This project creates a system that takes an image as input and outputs the same image with a red rectangle around each animal along with a label classifying the type of animal found inside it. 
+This Artificial Intelligence project, which is based on RCNN, creates a system that takes an image as input and outputs the same image with a red rectangle around each animal and labels classifying the types of animals found. 
 
 To generate images which can be used to train the convolutional neural network model, run MakePatchesWithCV.py and BackgroundClass.py (this will take a significant amount of time)
 
